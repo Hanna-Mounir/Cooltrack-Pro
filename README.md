@@ -10,7 +10,7 @@ It features low-power operation, local LCD display, SD card data logging, and Bl
 This repository includes:  
 - 📟 **Arduino code** for the hardware system  
 - 📖 **Manuals and schematics** of all hardware components  
-- 📱 **App code** for the Bluetooth mobile application  
+- 📱 **App code** for the Bluetooth mobile application + app apk  
 - 🖼 **Screenshots** of the app interface and test results  
 - 🤖 **AI log** documenting development notes and testing progress  
 
